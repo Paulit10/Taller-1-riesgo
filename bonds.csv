@@ -1,0 +1,19 @@
+﻿ISIN;Nemotécnico;Fecha_Emisión;Plazo_años;Fecha_de_vencimiento;Indexación;Tasa_Cupón;Período_Pago_Intereses;Amortización;Base;Moneda;Emisor
+COE01CB00055;BGEB1209C7;6/25/2020;7;6/25/2027;IPC;3,24%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COE01CB00071;BGEB1209C1;6/25/2020;15;6/25/2035;IPC;3,87%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COE01CB00071;BGEB1209C1;6/25/2020;15;6/25/2035;IPC;3,87%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COE01CB00014;BEEB1179A7;2/28/2017;7;2/28/2024;IPC;3,19%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COE01CB00022;BEEB1179A1;2/28/2017;15;2/28/2032;IPC;3,85%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+CO501CB00030;BEEB1179A025;2/28/2017;25;2/28/2042;IPC;4,04%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COE01CB00048;BEEB1179A030;2/28/2017;30;2/28/2047;IPC;4,10%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+COJ05CD0CAN9;CDTTYAS0V;6/02/2023;0,4;11/02/2023;FS;13,32%;Períodica Vencida;Al vencimiento;360;COP;Tuya
+COB02CD0U1N0;CDTBPOS0V;4/11/2023;2;4/11/2025;FS;13,00%;Trimestral vencida;Al vencimiento;360;COP;Banco Popular
+COB23CD00GV3;CDTBOCS0V;2/07/2023;1;2/07/2024;FS;16,36;Trimestral vencida;Al vencimiento;360;COP;Banco de Occidente
+COB07CD0JXF8;CDTBCBS0V;6/14/2023;2;6/14/2025;FS;13,45;Trimestral vencida;Al vencimiento;360;COP;Bancolombia
+COL06CB00026;BSFDT1199A07;6/18/2019;7;6/18/2026;IPC;2,9;Trimestral vencida;Al vencimiento;360;COP;Findeter
+COB61CD3F9Z9;CDTBOOS0VD;2/10/2023;0,5;8/10/2023;FS;13,63;Períodica Vencida;Al vencimiento;360;COP;Bancoomeva
+COJ26CD49609;CDTGMAS5V;10/04/2022;2;10/04/2024;FS;13,32%;Trimestral vencida;Al vencimiento;365;COP;GM financials
+COB13CD1CJW7;CDTBGAS0V;2/15/2022;3;2/15/2025;FS;9,03%;Trimestral vencida;Al vencimiento;360;COP;BBVA Colombia
+COB74CB00074;BSFN120SA005;2/19/2020;5;2/19/2025;FS;6,24%;Trimestra vencida;Al vencimiento;365;COP;Serfinanza
+COE21CB00285;BCOS120SE004;8/25/2020;4;8/25/2024;FS;4,70%;Trimestral vencida;Al vencimiento;365;COP;Enel
+COB07CD0HM91;CDTBCB90;10/25/2022;15;10/25/2037;IPC;7,90%;Trimestral vencida;Al vencimiento;360;COP;Bancolombia
