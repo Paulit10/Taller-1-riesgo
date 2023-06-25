@@ -1,0 +1,31 @@
+﻿Nemotécnico;ISIN;Fecha_Emisión;Plazo_años;Fecha_de_vencimiento;Indexación;Tasa_Cupón;Período_Pago_Intereses;Amortización;Base;Moneda;Emisor
+BGEB1209C7;COE01CB00055;6/25/2020;7,0;6/25/2027;IPC;3,24%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BGEB1209C1;COE01CB00071;6/25/2020;15,0;6/25/2035;IPC;3,87%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BGEB1209C1;COE01CB00071;6/25/2020;15,0;6/25/2035;IPC;3,87%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BEEB1179A7;COE01CB00014;2/28/2017;7,0;2/28/2024;IPC;3,19%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BEEB1179A015;COE01CB00022;2/28/2017;15,0;2/28/2032;IPC;3,85%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BEEB1179A025;CO501CB00030;2/28/2017;25,0;2/28/2042;IPC;4,04%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+BEEB1179A030;COE01CB00048;2/28/2017;30,0;2/28/2047;IPC;4,10%;Trimestral vencida;Al vencimiento;365;COP;Grupo de Energía de Bogotá
+CDTTYAS0V;COJ05CD0CAN9;6/02/2023;0,4;11/02/2023;FS;13,32%;Períodica Vencida;Al vencimiento;360;COP;Tuya
+CDTBPOS0V;COB02CD0U1N0;4/11/2023;2,0;4/11/2025;FS;13,00%;Trimestral vencida;Al vencimiento;360;COP;Banco Popular
+CDTBOCS0V;COB23CD00GV3;2/07/2023;1,0;2/07/2024;FS;16,36%;Trimestral vencida;Al vencimiento;360;COP;Banco de Occidente
+CDTBCBS0V;COB07CD0JXF8;6/14/2023;2,0;6/14/2025;FS;13,45%;Trimestral vencida;Al vencimiento;360;COP;Bancolombia
+BSFDT1199A07;COL06CB00026;6/18/2019;7,0;6/18/2026;IPC;2,90%;Trimestral vencida;Al vencimiento;360;COP;Findeter
+CDTBOOS0VD;COB61CD3F9Z9;2/10/2023;0,5;8/10/2023;FS;13,63%;Períodica Vencida;Al vencimiento;360;COP;Bancoomeva
+CDTGMAS5V;COJ26CD49609;10/04/2022;2,0;10/04/2024;FS;13,32%;Trimestral vencida;Al vencimiento;365;COP;GM financials
+CDTBGAS0V;COB13CD1CJW7;2/15/2022;3,0;2/15/2025;FS;9,03%;Trimestral vencida;Al vencimiento;360;COP;BBVA Colombia
+BSFN120SA005;COB74CB00074;2/19/2020;5,0;2/19/2025;FS;6,24%;Trimestra vencida;Al vencimiento;365;COP;Serfinanza
+BCOS120SE004;COE21CB00285;8/25/2020;4,0;8/25/2024;FS;4,70%;Trimestral vencida;Al vencimiento;365;COP;Enel
+CDTBCB90;COB07CD0HM91;10/25/2022;15,0;10/25/2037;IPC;7,90%;Trimestral vencida;Al vencimiento;360;COP;Bancolombia
+TFIT11090233;COL17CT03862;9/02/2022;11,0;9/02/2033;FS;13,25%;Anual Vencida;Al vencimiento;365;COP;TES
+TFIT21280542;COL17CT03813;5/28/2021;21,0;5/28/2042;FS;9,25%;Nominal;Al vencimiento;365;COP;TES
+TFIT10260331;COL17CT03771;3/26/2021;10,0;3/26/2031;FS;7,00%;Nominal;Al vencimiento;365;COP;TES
+TFIT16180930;COL17CT03342;9/18/2014;16,0;9/18/2030;FS;7,75%;Anual Vencida;Al vencimiento;365;COP;TES
+TFIT08261125;COL17CT03557;11/26/2017;8,0;11/26/2025;FS;6,25%;Anual Vencida;Al vencimiento;365;COP;TES
+TFIT16280428;COL17CT02914;28/04/2012;16,0;28/04/2028;FS;6,00%;Nominal;Al vencimiento;365;COP;TES
+TFIT08031127;COL17CT03672;3/11/2019;8,0;3/11/2027;FS;5,75%;Anual Vencida;Al vencimiento;365;COP;TES
+TFIT15260826;COL17CT02625;8/26/2011;15,0;8/26/2026;FS;7,50%;Nominal;Al vencimiento;365;COP;TES
+TFIT16240724;COL17CT02385;7/24/2008;16,0;7/24/2024;FS;10,00%;Nominal;Al vencimiento;365;COP;TES
+TFIT31261050;COL17CT03722;10/26/2019;31,0;10/26/2050;FS;7,25%;Nominal;Al vencimiento;365;COP;TES
+TFIT16300632;COL17CT03490;6/30/2016;16,0;6/30/2032;FS;7,00%;Nominal;Al vencimiento;365;COP;TES
+TFIT16181034;COL17CT03615;10/18/2018;16,0;10/18/2034;FS;7,25%;Nominal;Al vencimiento;365;COP;TES
